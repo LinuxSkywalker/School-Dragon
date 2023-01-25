@@ -1,7 +1,7 @@
 #Check out the official docs here: https://docs.python.org/3/library/turtle.html
 #We're only using left because it's funny
 #The Dragon turned its head backwards like an owl. That's why its sliightly off-centered
-#All I(Porter) did on the second day was polishing and making sure things looked better
+#All I(Porter) did on the second day was polishing, text, and making sure things looked better
 
 
 import turtle
